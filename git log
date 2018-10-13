@@ -1,0 +1,55 @@
+[33mcommit 87e5489f50dd073ebe0ff228a775b14c9b1a4ad2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jeffrey Yau <jeffreyyau@outlook.com>
+Date:   Sun Oct 14 01:05:33 2018 +0800
+
+    Revert Reload Test
+
+[33mcommit c19f50bb98f4ae442f961c4c2c44b3e5af7489a4[m
+Author: Jeffrey Yau <jeffreyyau@outlook.com>
+Date:   Sun Oct 14 01:01:42 2018 +0800
+
+    Reload Test
+
+[33mcommit 7f35d17383dcde889507d302237d4b5e5b73e706[m
+Author: Jeffrey Yau <jeffreyyau@outlook.com>
+Date:   Sun Oct 14 00:59:51 2018 +0800
+
+    Reload Test
+
+[33mcommit d0ac69a2761ac9fe7f8c4a3e48b65234fdb258b2[m
+Merge: 2568bde 3b4d493
+Author: Jeffrey Yau <jeffreyyau@outlook.com>
+Date:   Sun Oct 14 00:42:05 2018 +0800
+
+    Merge branch 'login'
+    Added login
+
+[33mcommit 3b4d4936a44b62319c0d76d7a75f4e85d0b363df[m[33m ([m[1;32mlogin[m[33m)[m
+Author: Jeffrey Yau <jeffreyyau@outlook.com>
+Date:   Sun Oct 14 00:40:33 2018 +0800
+
+    login from
+
+[33mcommit 2568bdeae18e50699cba3731452be332ae149095[m
+Author: Jeffrey Yau <jeffreyyau@outlook.com>
+Date:   Sun Oct 14 00:35:41 2018 +0800
+
+    another change
+
+[33mcommit 5c2fea572b6bf8e3b3aed0f75ed1136ec41a1d9f[m
+Author: Jeffrey Yau <jeffreyyau@outlook.com>
+Date:   Sun Oct 14 00:15:25 2018 +0800
+
+    Changed app.js
+
+[33mcommit c239b51579878b431239c33f19afd653c7be26d1[m
+Author: Jeffrey Yau <jeffreyyau@outlook.com>
+Date:   Sun Oct 14 00:06:45 2018 +0800
+
+     initial commit
+
+[33mcommit fe5298fa54a044363b502ec7ee972e4318ad114f[m
+Author: Jeffrey Yau <jeffreyyau@outlook.com>
+Date:   Sat Oct 13 23:53:32 2018 +0800
+
+    Add index.html
